@@ -2,8 +2,8 @@ import { chromium, firefox } from "playwright";
 import { newInjectedContext } from "fingerprint-injector";
 import { checkTz } from "./tz_px.js";
 
-const url = "https://cybertoolhub.space/";
-// Threads range
+const url = "https://allinonetoolbox.store/";
+// Threads rnge
 const min = 5; // Minimum threads for task execution.
 const max = 8; // Maximum threads for task execution.
 let bots;
