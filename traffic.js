@@ -5,7 +5,7 @@ import { checkTz } from "./tz_px.js";
 const url = "https://allinonetoolbox.store/";
 // Threads rnge
 const min = 5; // Minimum threads for task execution.
-const max = 8; // Maximum threads for task execution.
+const max = 9; // Maximum threads for task execution.
 let bots;
 let views = 0;
 function generateRandomNumber(min, max) {
